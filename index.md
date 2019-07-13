@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一款能够给中国的商务人士和决策者们提供来自英国《金融时报》（Financial Times） 的权威性全球财经新闻的网站，这里拥有关于金融最权威的分析以及评论。提供每日不可或缺的商业财经新闻。
 
 You can use the [editor on GitHub](https://github.com/Zhaoshengzhuang/mr.zhao/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
